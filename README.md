@@ -6,3 +6,4 @@ craxsrat version 7.4
 craxsrat v7.4
 craxsrat
 craxsrat source code 
+all clean
